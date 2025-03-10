@@ -8,6 +8,7 @@ public class InsertationSort {
             System.out.print(arr[i]+" ");
         }
     }
+    
     public static void Sort(int arr[]){
         for(int i=1;i<arr.length;i++){
             InsertLast(arr,i);
