@@ -25,4 +25,4 @@ public class Compalable_Demo {
         Collections.sort(ll,com);
         System.out.println(ll);
     }
-}
+} 
