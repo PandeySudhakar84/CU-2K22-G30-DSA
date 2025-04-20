@@ -16,3 +16,4 @@ public class Pattern10a {
         }
     }
 }  
+ 
