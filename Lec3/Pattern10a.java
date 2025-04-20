@@ -15,4 +15,4 @@ public class Pattern10a {
             System.out.println();
         }
     }
-} 
+}  
