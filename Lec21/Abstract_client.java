@@ -22,5 +22,5 @@ public class Abstract_client {
         };
         s.Payment();
         s.ShowDeta();
-    }
+    } 
 }
