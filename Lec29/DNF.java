@@ -31,4 +31,4 @@ public class DNF {
             System.out.print(arr[k]+" ");
         }
     }
-}
+} 
